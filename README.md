@@ -49,4 +49,4 @@ The third part of the application is a webpage for requisters where users can re
 
 │   └── HistoryPage
 
-<strong>Out URL: </strong>
+<strong>Out URL: </strong>https://github.com/YujingWu528/Hackathon-2019-Fall---Trio/tree/master/Hackaroo-FeedKC-server
